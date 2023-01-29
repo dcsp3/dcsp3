@@ -11,7 +11,7 @@
 <a href="https://open.spotify.com/user/hjylvuncymq3sd4era98ywamy"><img height="30" src="https://github.com/dcsp3/dcsp3/blob/main/src/spotify.png"></a>&nbsp;&nbsp;
 </p>
 
-<img src="https://github.com/dcsp3/dcsp3/blob/main/src/code.gif" alt="side Image" align="right" width="350" height="auto" />
+<img src="https://github.com/dcsp3/dcsp3/blob/main/src/code.gif" alt="side Image" align="right" width="375" height="auto" />
 
 - 🏠 I'm an 18 year old Computer Science student from New Delhi 🇮🇳 living in Birmingham 🇬🇧. <br>
 - 🎓 I'm pursuing my bachelor's from the [University of Birmingham](https://www.birmingham.ac.uk) and I'm currently in my first year. <br>
