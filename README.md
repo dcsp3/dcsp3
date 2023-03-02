@@ -4,7 +4,7 @@
 
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/dakshesh-pandey-0b259124b/"><img height="30" src="https://github.com/dcsp3/dcsp3/blob/main/src/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/dakshesh-pandey/"><img height="30" src="https://github.com/dcsp3/dcsp3/blob/main/src/linkedin.png"></a>&nbsp;&nbsp;
 <a href="mailto:daksheshpandey@gmail.com"><img height="30" src="https://github.com/dcsp3/dcsp3/blob/main/src/gmail.png"></a>&nbsp;&nbsp;
 <a href="https://www.twitter.com/daksheeesh"><img height="30" src="https://github.com/dcsp3/dcsp3/blob/main/src/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/pandeyy13"><img height="30" src="https://github.com/dcsp3/dcsp3/blob/main/src/instagram.png"></a>&nbsp;&nbsp;
