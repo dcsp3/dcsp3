@@ -17,7 +17,7 @@
 - 🎓 I'm pursuing my bachelor's from the [University of Birmingham](https://www.birmingham.ac.uk) and I'm currently in my first year. <br>
 - 💻 I love to make scripts and bots using Python to make my life easier! I'm also interested in web development & game development. 
 - 💬 I'd love to collaborate or contribute! Please feel free to reach out to me on all of my socials.
-- ⚒️ I’m currently working on [auctions](https://github.com/dcsp3/auctions).
+- ⚒️ I’m currently working on [crypto-tracker](https://github.com/dcsp3/crypto-tracker).
 - 📖 I’m currently learning [Harvard's CS50W](https://cs50.harvard.edu/web/2020/).
 
 <br>
