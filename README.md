@@ -13,12 +13,11 @@
 
 <img src="https://github.com/dcsp3/dcsp3/blob/main/src/code.gif" alt="coder gif" align="right" width="350" height="auto" />
 
-- 🏠 I'm an 18 year old Computer Science student from New Delhi 🇮🇳 living in Birmingham 🇬🇧. <br>
+- 🏠 I'm a 19 year old Computer Science student from New Delhi 🇮🇳 living in Birmingham 🇬🇧. <br>
 - 🎓 I'm pursuing my bachelor's from the [University of Birmingham](https://www.birmingham.ac.uk) and I'm currently in my first year. <br>
 - 💻 I love to make scripts and bots using Python to make my life easier! I'm also interested in web development & game development. 
 - 💬 I'd love to collaborate or contribute! Please feel free to reach out to me on all of my socials.
-- ⚒️ I’m currently working on [crypto-tracker](https://github.com/dcsp3/crypto-tracker).
-- 📖 I’m currently learning [Harvard's CS50W](https://cs50.harvard.edu/web/2020/).
+- ⚒️ I’m currently working on [network](https://github.com/dcsp3/network).
 
 <br>
 <hr>
