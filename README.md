@@ -7,14 +7,13 @@
 <a href="https://www.linkedin.com/in/dakshesh-pandey/"><img height="30" src="https://github.com/dcsp3/dcsp3/blob/main/src/linkedin.png"></a>&nbsp;&nbsp;
 <a href="mailto:daksheshpandey@gmail.com"><img height="30" src="https://github.com/dcsp3/dcsp3/blob/main/src/gmail.png"></a>&nbsp;&nbsp;
 <a href="https://www.twitter.com/daksheeesh"><img height="30" src="https://github.com/dcsp3/dcsp3/blob/main/src/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/pandeyy13"><img height="30" src="https://github.com/dcsp3/dcsp3/blob/main/src/instagram.png"></a>&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/hjylvuncymq3sd4era98ywamy"><img height="30" src="https://github.com/dcsp3/dcsp3/blob/main/src/spotify.png"></a>&nbsp;&nbsp;
 </p>
 
 <img src="https://github.com/dcsp3/dcsp3/blob/main/src/code.gif" alt="coder gif" align="right" width="350" height="auto" />
 
-- 🏠 I'm a 19 year old Computer Science student from New Delhi 🇮🇳 living in Birmingham 🇬🇧. <br>
-- 🎓 I'm pursuing my bachelor's from the [University of Birmingham](https://www.birmingham.ac.uk) and I'm currently in my first year. <br>
+- 🏠 I'm a 20 year old Computer Science student from New Delhi 🇮🇳 living in Birmingham 🇬🇧. <br>
+- 🎓 I'm pursuing my bachelor's from the [University of Birmingham](https://www.birmingham.ac.uk) and I'm currently in my third (penultimate) year. <br>
 - 💻 I love to make scripts and bots using Python to make my life easier! I'm also interested in web development & game development. 
 - 💬 I'd love to collaborate or contribute! Please feel free to reach out to me on all of my socials.
 - ⚒️ I’m currently working on [network](https://github.com/dcsp3/network).
