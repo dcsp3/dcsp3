@@ -1,6 +1,6 @@
 # Dak
 
-- 22 year old software engineer based in London
+- Software engineer based in London
 - Frontend at HubSpot, on the Lead Capture team
 - First class Master's in Computer Science from the University of Birmingham
 - Mostly building small tools for myself here
